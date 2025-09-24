@@ -4,3 +4,4 @@ This is my first git project.
 Author - Shriji Gupta
 <br>
 hii
+  my name is shriji and i am learning git 
